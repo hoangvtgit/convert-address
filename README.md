@@ -1,301 +1,257 @@
-# Address Converter - Chuyển Đổi Địa Chỉ Tỉnh Thành Việt Nam
+# Trình Chuyển Đổi Địa Chỉ Việt Nam
 
-## Mô Tả Dự Án
+Công cụ chuyển đổi địa chỉ từ hệ thống hành chính cũ (có huyện) sang hệ thống mới (không có huyện) theo quy định mới của Việt Nam.
 
-Dự án này cung cấp giải pháp chuyển đổi địa chỉ tỉnh thành Việt Nam từ định dạng cũ (trước khi gộp tỉnh) sang định dạng mới (sau khi gộp tỉnh). Hỗ trợ cả việc tìm kiếm và lọc dữ liệu bằng cả địa chỉ cũ và mới.
+## Tổng Quan
 
-## Cấu Trúc Dự Án
+Việt Nam đã thay đổi địa giới hành chính, loại bỏ cấp huyện trong một số địa phương. Công cụ này giúp chuyển đổi dữ liệu địa chỉ từ định dạng cũ sang định dạng mới một cách tự động.
 
+### Ví Dụ Chuyển Đổi
+
+**Trước (có huyện):**
 ```
-.
-├── src/
-│   └── address-converter.js      # Module chính chuyển đổi địa chỉ
-├── tests/
-│   └── address-converter.test.js # Test cases với Jest
-├── SOLUTION.md                   # Giải pháp business chi tiết
-└── README.md                    # Hướng dẫn sử dụng
+"Loc An Industrial Park - Binh Son, Long An Commune, Long Thanh District, Dong Nai Province, Vietnam"
 ```
+
+**Sau (không có huyện):**
+```
+"Loc An Industrial Park - Binh Son, Long Thanh Commune, Dong Nai Province, Viet Nam"
+```
+
+## Cấu Trúc Dữ Liệu
+
+### Dữ Liệu Đầu Vào
+
+- `data/projects.json` - Danh sách dự án cần chuyển đổi
+- `data/ward_mappings.json` - Mapping từ xã/phường cũ sang mới
+- `data/ward.json` - Dữ liệu xã/phường mới
+- `data/province.json` - Dữ liệu tỉnh/thành phố mới
+- `data/xa_phuong.json` - Dữ liệu xã/phường cũ (tham khảo)
+- `data/quan_huyen.json` - Dữ liệu huyện/quận cũ (tham khảo)
+- `data/tinh_tp.json` - Dữ liệu tỉnh/thành phố cũ (tham khảo)
+
+### Dữ Liệu Đầu Ra
+
+Sau khi chuyển đổi, kết quả được lưu trong thư mục `convert-data/`:
+
+- `conversion_success.json` - Danh sách dự án chuyển đổi thành công
+- `missing_info.json` - Danh sách dự án thiếu thông tin
+- `invalid_input.json` - Danh sách dự án có dữ liệu không hợp lệ
+- `processing_summary.json` - Báo cáo thống kê tổng hợp
 
 ## Cài Đặt
 
-### Yêu Cầu Hệ Thống
-- Node.js (version 14 trở lên)
-- npm hoặc yarn
+```bash
+# Clone repository hoặc copy thư mục convert-address
+cd convert-address
 
-### Cài Đặt Dependencies
+# Cài đặt dependencies (nếu có package.json)
+npm install
+```
+
+## Sử Dụng
+
+### 1. Chạy Toàn Bộ Quá Trình Chuyển Đổi
 
 ```bash
-# Khởi tạo project (nếu chưa có package.json)
-npm init -y
-
-# Cài đặt Jest cho testing
-npm install --save-dev jest
-
-# Hoặc sử dụng yarn
-yarn add --dev jest
+node src/address-converter.js
 ```
 
-## Cách Sử Dụng
+Lệnh này sẽ:
+- Load tất cả dữ liệu từ các file JSON
+- Chuyển đổi tất cả dự án
+- Xuất kết quả ra các file tương ứng
+- Hiển thị báo cáo thống kê
 
-### 1. Import Module
-
-```javascript
-const {
-  convertAddress,
-  convertAddresses,
-  getNewCityOptions,
-  getOriginalCityOptions
-} = require('./src/address-converter');
-```
-
-### 2. Chuyển Đổi Địa Chỉ Đơn Lẻ
-
-```javascript
-const address = {
-  address: "Lot CN6-2, Que Vo III Industrial Park",
-  city: "Tỉnh Bắc Ninh",
-  district: "Huyện Quế Võ"
-};
-
-const converted = convertAddress(address);
-console.log(converted);
-// Kết quả:
-// {
-//   address: "Lot CN6-2, Que Vo III Industrial Park",
-//   city: "Tỉnh Bắc Ninh",
-//   district: "Huyện Quế Võ",
-//   newCity: "Bắc Ninh",
-//   isConverted: true,
-//   originalCity: "Tỉnh Bắc Ninh"
-// }
-```
-
-### 3. Chuyển Đổi Nhiều Địa Chỉ
-
-```javascript
-const addresses = [
-  { city: "Tỉnh Bắc Giang", address: "..." },
-  { city: "Tỉnh Bình Dương", address: "..." },
-  { city: "Tỉnh Hà Nam", address: "..." }
-];
-
-const convertedAddresses = convertAddresses(addresses);
-console.log(convertedAddresses);
-```
-
-### 4. Lấy Danh Sách Filter Options
-
-```javascript
-// Lấy danh sách tỉnh thành mới cho filter
-const newCityOptions = getNewCityOptions(convertedAddresses);
-// ["Bắc Ninh", "Ninh Bình", "TP Hồ Chí Minh"]
-
-// Lấy danh sách tỉnh thành cũ cho filter
-const originalCityOptions = getOriginalCityOptions(addresses);
-// ["Tỉnh Bắc Giang", "Tỉnh Bình Dương", "Tỉnh Hà Nam"]
-```
-
-## Chạy Test
-
-### Chạy Toàn Bộ Test
+### 2. Chạy Test Với Một Số Dự Án Mẫu
 
 ```bash
-npm test
+node test-converter.js
 ```
 
-### Chạy Test Với Coverage Report
+### 3. Sử Dụng Trong Code Khác
 
-```bash
-npm test -- --coverage
+```javascript
+const AddressConverter = require('./src/address-converter');
+
+async function main() {
+    const converter = new AddressConverter();
+    
+    // Khởi tạo dữ liệu
+    await converter.initialize();
+    
+    // Chuyển đổi một dự án cụ thể
+    const project = {
+        id: "123",
+        address: "123 Main Street, Long An Commune, Long Thanh District, Dong Nai Province, Vietnam",
+        city: "Tỉnh Đồng Nai",
+        district: "Huyện Long Thành"
+    };
+    
+    const result = converter.convertProject(project);
+    
+    if (result.type === 'success') {
+        console.log('Chuyển đổi thành công:');
+        console.log('Địa chỉ cũ:', result.data.address);
+        console.log('Địa chỉ mới:', result.data.new_address);
+    }
+    
+    // Hoặc chuyển đổi tất cả
+    await converter.run();
+}
+
+main();
 ```
 
-### Chạy Test Cụ Thể
+## Thuật Toán Chuyển Đổi
 
-```bash
-# Chạy test cho function convertAddress
-npm test -- -t "convertAddress function"
+### 1. Phân Tích Địa Chỉ
 
-# Chạy test cho edge cases
-npm test -- -t "Edge cases"
+Thuật toán phân tích chuỗi địa chỉ để trích xuất:
+- Phần địa chỉ chi tiết (số nhà, tên đường, etc.)
+- Tên xã/phường
+- Tên huyện/quận
+- Tên tỉnh/thành phố
+
+### 2. Tìm Mapping
+
+Sử dụng hai phương pháp:
+
+**Exact Matching:** So khớp chính xác tên xã/phường, huyện, tỉnh
+```javascript
+// Độ tin cậy: 1.0
+const exactMatch = wardMappings.find(mapping => 
+    compareNames(mapping.old_ward_name, wardName) &&
+    compareNames(mapping.old_district_name, districtName) &&
+    compareNames(mapping.old_province_name, provinceName)
+);
 ```
 
-### Cấu Hình Test trong package.json
+**Fuzzy Matching:** So khớp gần đúng sử dụng thuật toán Levenshtein
+```javascript
+// Độ tin cậy: 0.7 - 0.99
+const similarity = calculateSimilarity(oldName, newName);
+if (similarity > 0.7) {
+    // Có thể là match
+}
+```
 
-Thêm script vào file `package.json`:
+### 3. Xây Dựng Địa Chỉ Mới
+
+Định dạng địa chỉ mới loại bỏ huyện:
+```
+[Địa chỉ chi tiết], [Tên xã/phường] [Loại], [Tỉnh/Thành phố] Province, Viet Nam
+```
+
+## Các Trường Hợp Xử Lý
+
+### ✅ Chuyển Đổi Thành Công
 
 ```json
 {
-  "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
-  }
+  "id": "100112501793",
+  "address": "Original address...",
+  "city": "Tỉnh Đồng Nai",
+  "district": "Huyện Long Thành",
+  "new_city": "Tỉnh Đồng Nai",
+  "new_address": "New address without district...",
+  "conversion_method": "exact",
+  "confidence_score": 1.0,
+  "processed_at": "2024-01-01T00:00:00.000Z"
 }
 ```
 
-## Test Cases Đã Được Triển Khai
+### ⚠️ Thiếu Thông Tin
 
-### 1. Chuyển Đổi Cơ Bản
-- Chuyển đổi các tỉnh thành cơ bản (Bắc Giang → Bắc Ninh, Bình Dương → TP Hồ Chí Minh, v.v.)
-- Xử lý prefix "Tỉnh" và "Thành phố"
-- Địa chỉ đã ở định dạng mới
-
-### 2. Edge Cases
-- Địa chỉ không có trong mapping
-- Input không hợp lệ (null, undefined, không phải object)
-- Thiếu property city
-
-### 3. Batch Processing
-- Chuyển đổi nhiều địa chỉ cùng lúc
-- Xử lý empty array
-- Validation input array
-
-### 4. Filter Options
-- Lấy danh sách tỉnh thành mới duy nhất
-- Lấy danh sách tỉnh thành cũ duy nhất
-- Xử lý duplicate values
-
-## Customize Test Data
-
-Để thêm test cases mới, chỉ cần sửa file `tests/address-converter.test.js`:
-
-```javascript
-// Thêm test data mới
-const newTestAddresses = [
-  {
-    address: "Your test address",
-    city: "Tỉnh Your Province"
-  }
-];
-
-// Thêm test case mới
-test('should handle your specific case', () => {
-  const result = convertAddress(newTestAddresses[0]);
-  expect(result.newCity).toBe("Expected Result");
-});
-```
-
-## Integration với Database
-
-### Migration Script Example
-
-```javascript
-const { convertAddress } = require('./src/address-converter');
-const mongoose = require('mongoose');
-
-async function migrateProjects() {
-  const projects = await Project.find({ is_converted: { $ne: true } });
-  
-  for (const project of projects) {
-    try {
-      const converted = convertAddress({
-        city: project.city,
-        address: project.address,
-        district: project.district
-      });
-      
-      await Project.updateOne(
-        { _id: project._id },
-        {
-          new_city: converted.newCity,
-          is_converted: converted.isConverted,
-          original_city: converted.originalCity
-        }
-      );
-      
-      console.log(`Converted project ${project._id}`);
-    } catch (error) {
-      console.error(`Error converting project ${project._id}:`, error);
-    }
-  }
+```json
+{
+  "id": "123",
+  "missing_reason": "Ward not found in mapping database",
+  "extracted_ward": "Unknown Ward",
+  "notes": "Manual review required"
 }
 ```
 
-## API Integration
+### ❌ Dữ Liệu Không Hợp Lệ
 
-### Express.js Example
-
-```javascript
-const express = require('express');
-const { convertAddresses, getNewCityOptions, getOriginalCityOptions } = require('./src/address-converter');
-
-const app = express();
-app.use(express.json());
-
-// API để convert địa chỉ
-app.post('/api/convert-addresses', (req, res) => {
-  try {
-    const { addresses } = req.body;
-    const converted = convertAddresses(addresses);
-    res.json({ success: true, data: converted });
-  } catch (error) {
-    res.status(400).json({ success: false, error: error.message });
-  }
-});
-
-// API để lấy filter options
-app.get('/api/filter-options', async (req, res) => {
-  try {
-    const projects = await Project.find();
-    const converted = convertAddresses(projects);
-    
-    const options = {
-      newCities: getNewCityOptions(converted),
-      originalCities: getOriginalCityOptions(projects)
-    };
-    
-    res.json({ success: true, data: options });
-  } catch (error) {
-    res.status(500).json({ success: false, error: error.message });
-  }
-});
+```json
+{
+  "id": "456",
+  "error_type": "invalid_input_format",
+  "validation_errors": ["Address parsing failed"]
+}
 ```
 
-## Troubleshooting
+## Thống Kê và Báo Cáo
+
+Sau khi chạy, hệ thống sẽ tạo báo cáo chi tiết:
+
+```
+📊 Kết quả tổng hợp:
+   🎯 Thành công: 850 dự án
+   ⚠️  Thiếu thông tin: 120 dự án  
+   ❌ Dữ liệu không hợp lệ: 30 dự án
+   📈 Tỷ lệ thành công: 85%
+```
+
+## Xử Lý Lỗi
 
 ### Lỗi Thường Gặp
 
-1. **"City property is required and must be a string"**
-   - Kiểm tra xem object address có property `city` không
-   - Đảm bảo `city` là string
-
-2. **"Invalid address object"**
-   - Đảm bảo truyền đúng object, không phải null/undefined
-
-3. **Test không chạy**
-   - Kiểm tra đã cài đặt Jest chưa
-   - Kiểm tra cấu hình trong package.json
+1. **File không tồn tại:** Kiểm tra đường dẫn file dữ liệu
+2. **Dữ liệu JSON không hợp lệ:** Validate format file
+3. **Thiếu mapping:** Bổ sung dữ liệu mapping
+4. **Lỗi phân tích địa chỉ:** Kiểm tra format địa chỉ đầu vào
 
 ### Debug
 
-Thêm console.log để debug:
-
+Bật log chi tiết:
 ```javascript
-const result = convertAddress(address);
-console.log('Input:', address);
-console.log('Output:', result);
+const converter = new AddressConverter();
+converter.debug = true; // Hiển thị log chi tiết
 ```
 
-## Contributing
+## Tùy Chỉnh
+
+### Thay Đổi Ngưỡng Fuzzy Matching
+
+```javascript
+// Trong findWardMapping()
+const fuzzyMatches = this.wardMappings.filter(mapping => {
+    const wardSimilarity = this.calculateSimilarity(mapping.old_ward_name, wardName);
+    const districtSimilarity = this.calculateSimilarity(mapping.old_district_name, districtName);
+    const provinceSimilarity = this.calculateSimilarity(mapping.old_province_name, provinceName);
+    
+    // Thay đổi ngưỡng tại đây
+    return wardSimilarity > 0.8 && districtSimilarity > 0.8 && provinceSimilarity > 0.9;
+});
+```
+
+### Thêm Loại Đơn Vị Hành Chính
+
+```javascript
+// Trong parseAddress()
+const wardKeywords = ['commune', 'ward', 'xã', 'phường', 'thị trấn', 'thị xã'];
+```
+
+## Performance
+
+- **Thời gian xử lý:** ~0.1-5ms per record
+- **Memory usage:** Phụ thuộc vào kích thước dữ liệu
+- **Scalability:** Có thể xử lý hàng nghìn records
+
+## Đóng Góp
 
 1. Fork repository
-2. Tạo feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
+2. Tạo feature branch
+3. Commit changes
+4. Push to branch
+5. Create Pull Request
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License - Xem file LICENSE để biết thêm chi tiết.
 
 ## Liên Hệ
 
-Nếu có câu hỏi hoặc cần hỗ trợ, vui lòng tạo issue trên repository hoặc liên hệ trực tiếp.
-
-## Changelog
-
-### Version 1.0.0
-- Initial release
-- Basic address conversion functionality
-- Comprehensive test coverage
-- Business solution documentation
+Nếu có vấn đề hoặc câu hỏi, vui lòng tạo issue trên repository.
