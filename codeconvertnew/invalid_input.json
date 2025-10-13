@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "102535959316",
+    "address": "khu vực phía Bắc Hà Nội (hai bên tuyến đường Nhật Tân - Nội Bài)",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "10271551856",
+    "address": "Vo Chi Cong Rd., Ha Noi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "105144490933",
+    "address": "Mặt tiền đường Song Hành, Phường Phú Hữu, Quận 9, Tp. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "10696134471",
+    "address": "Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "110583561312",
+    "address": "2A đường Bình Chiểu, Phường Bình Chiểu, Quận Thủ Đức, HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "11294623508",
+    "address": "Khu đất đơn vị M2 – Ban Cơ yếu Chính phủ ngay tại ngã tư Khuất Duy Tiến – Lê Văn Lương, phường Nhân Chính, quận Thanh Xuân",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "113986596963",
+    "address": "ô đất ký hiệu 12-CCV, Khu chức năng đô thị Nam đường vành đai 3, đường Nguyễn Xiển, phường Đại Kim, quận Hoàng Mai",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "11423151053",
+    "address": "SHTP- 9 dist, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "114842164387",
+    "address": "KĐT Ciputra, Quận Bắc Từ Liêm, TP. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "116225121126",
+    "address": "Ho Chi Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "120751351594",
+    "address": "Cu Chi town, Cu Chi district, HCM city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "12635464399",
+    "address": "Khu chức năng số 5 và 6, Khu đô thị Thủ Thiêm (quận 2)",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "130224249971",
+    "address": "Quận 4",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "134168512698",
+    "address": "89 Đường Hoàng Quốc Việt, Phường Phú Thuận, Quận 7, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "13693670106",
+    "address": "Lai Yen and Van Canh commune, Hoai Duc district, Ha Noi city",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "13833500638",
+    "address": "Hiep Phuoc IP, Nha Be dist, HCMC",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "142396812189",
+    "address": "Đường Ngô Chí Quốc - Đường số 6, KDC Bình Chiểu, Phường Bình Chiểu, Thủ Đức. Tp. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "149615288317",
+    "address": "số 564 Nguyễn Văn Cừ, P. Gia Thụy, Q. Long Biên, TP. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "149824148905",
+    "address": "đường Nguyễn Văn Linh và Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "151360900269",
+    "address": "198 Trần Quang Khải, Hoàn Kiếm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "153185953749",
+    "address": "Lot S12-16A, Street 20, Tan Thuan EPZ, District 7, HCM City",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "153576934889",
+    "address": "Số 15A, Nguyễn Hữu Thọ, Phước Kiển, Nhà Bè, HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "155560348084",
+    "address": "Mặt tiền đường Liên Phường, P. Phú Hữu, Q.9, HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "156091750643",
+    "address": "đường Tố Hữu, quận Hà Đông, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "15694166067",
+    "address": "Thoi An ward, 12 district, HCMC",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "157770859363",
+    "address": "28 Lê Đức Thọ, Mai Dịch, Cầu Giấy",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "168027454976",
+    "address": "Tăng Nhơn Phú, Phước Long B, Quận 9, TP.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "172207541074",
+    "address": "Bãi Biển Mỹ Khê",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "174719348429",
+    "address": "Bãi tắm Cát Cò 1 và Cát Cò 2 thị trấn Cát Bà, Cát Hải, Hải Phòng",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "176842782923",
+    "address": "số 29 Liễu Giai, Trung tâm Quận Ba Đình, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "17944461561",
+    "address": "Số 4 Tôn Thất Tùng, P. Trung Tự, Q. Đống Đa",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "182472180503",
+    "address": "Đường số 9A, Khu dân cư Trung Sơn, TP.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "193464547045",
+    "address": "Số 3 Lương Yên - P. Bạch Đằng - Q. Hai Bà Trưng - Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "195097950013",
+    "address": "Lô 6 dải đất phía Nam - Đại Cồ Việt - Hai Bà Trưng - Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "195652338624",
+    "address": "Khu đô thị Văn Phú, quận Hà Đông, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "201627116603",
+    "address": "1 Nguyễn Cảnh Dị, KĐT Bắc Đại Kim, P. Đại Từ, Q. Hoàng Mai, HN",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "205368682011",
+    "address": "Dinh Vu - Cat Hai EZ, Thuy Nguyen District, Hai Phong City",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "210229166297",
+    "address": "Vĩnh Tuy, Q. Hai Bà Trưng",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "211358808139",
+    "address": "Dong Nam IP, Cu Chi district, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "212215949028",
+    "address": "Góc ngã tư giao giữa Võ Chí Công – Nguyễn Hoàng Tôn. Khu HH2, lô D6, Phường Xuân La, Quận Tây Hồ, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "213137855913",
+    "address": "phường Vạn Hương, quận Đồ Sơn",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "213897944428",
+    "address": "2/279 Xa lộ Hà Nội, Hiệp Phú, Quận 9, Hiệp Phú Quận 9 Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "21405463505",
+    "address": "Lô C2, Khu công nghiệp Vũng Áng 1, Phương Kỳ Thịnh, thị xã Kỳ Anh, tỉnh Hà Tĩnh",
+    "city": "126",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "214326804799",
+    "address": "Mai Chi Tho Avenue, An Phu ward, District 2, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "214695459908",
+    "address": "Nam Cau Kien IP, Thuy Nguyen district, Hai Phong city",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "2171615520",
+    "address": "Số 26 Mai Chí Thọ, phường Bình Khánh, quận 2",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "219379522536",
+    "address": "Số 201 Minh Khai – Hai Bà Trưng – Hà NộI",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "2212178666",
+    "address": "200 Đường 3 Tháng 2, P.12 - Quận 10 - TP.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "235497780901",
+    "address": "Dao Tri street, District 7, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "23585112636",
+    "address": "Số 200, đường Ba Tháng Hai, phường 12, Quận 10",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "237008547076",
+    "address": "đường Võ Nguyên Giáp, X. Vĩnh Ngọc, H. Đông Anh, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "238286756403",
+    "address": "Số 259 đường Điện Biên Phủ, phường 3, quận 7, TP Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "238928158039",
+    "address": "Số 105 Chu Văn An, P.Yết Kiêu, Q.Hà Đông, Tp.Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "246859221259",
+    "address": "35 Tân Mai, Q.Hoàng Mai, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "250940809820",
+    "address": "số 50 ngõ 83 ngọc hồi, phường hoàng liệt, quận hoàng mai, hà nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "25256655544",
+    "address": null,
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "25259634292",
+    "address": "219 Trung Kinh, Yen Hoa ward, Cau Giay district, Ha Noi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "264960985799",
+    "address": "Số 1, Trần Duy Hưng, Cầu Giấy",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "270579304973",
+    "address": "Xã Tứ Hiệp, huyện Thanh Trì, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "276695798305",
+    "address": "D28 - KĐT mới Cầu Giấy, phường Dịch Vọng, quận Cầu Giấy, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "276858885517",
+    "address": "Số 200 đường 3 Tháng 2, Phường 12, Quận 10, TP. HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "281917429932",
+    "address": "Group 4, Thach Ban ward, Long Bien district, Hanoi.",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "285240209952",
+    "address": "423 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "289810514419",
+    "address": "Số 110 Cầu Giấy, phường Quan Hoa, quận Cầu Giấy, Hà Nội.",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "290279639486",
+    "address": "107 Nguyễn Phong Sắc, Cầu Giấy, HN",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "294400898114",
+    "address": "ngã tư Hàm Nghi - Nguyễn Cơ Thạch, Khu đô thị Mỹ Đình I, Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "295051663355",
+    "address": "số 2 Phạm Văn Bạch, ô đất D32 khu đô thị mới Cầu Giấy, phường Yên Hòa, quận Cầu Giấy",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "296016671568",
+    "address": "Vung Ang economic sector, Ky Anh district, Ha Tinh province",
+    "city": "126",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "296782132123",
+    "address": "Phường Đại Kim - Quận Hoàng Mai - Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "29915114892",
+    "address": "Lô 10E6, khu đô thị mới Cầu Giấy, Q Cầu Giấy, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "308386667143",
+    "address": "257 Điện Biên Phủ, Quận 3",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "311398381143",
+    "address": "Đường Nguyễn Hữu Thọ, Xã Phước Kiển, Nhà Bè, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "31142831392",
+    "address": "Cam Quan ward, Cam Xuyen dist, Ha Tinh province",
+    "city": "126",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "312470174561",
+    "address": "số 28 lô X3 đường Trần Hữu Dực, phường Cầu Diễn, Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "316124740381",
+    "address": "Thủy Vân, Thị xã Hương Thủy, Thừa Thiên Huế",
+    "city": "137",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "319152331503",
+    "address": "Lô đất CT04 - KĐT Nam Thăng Long - Tây Hồ - Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "32567849836",
+    "address": "Khu B - Lô số 1 Khu 9AB - Đô thị mới Nam Thành phố, xã Bình Hưng, huyện Bình Chánh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "329870924655",
+    "address": "Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "331420733873",
+    "address": "Ô đất CT08 - KĐT Mỹ Đình - Mễ Trì - p. Mỹ Đình - q. Nam Từ Liêm, Tp. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "338872497862",
+    "address": "34-35 Bến Vân Đồn, P.12, Quận 4",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "3401558191",
+    "address": "18 Phạm Hùng, phường Mỹ Đình 2, quận Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "341291309879",
+    "address": "Khu đất X3, khu CV4.3 P. Phú Đô, Q. Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "346389651805",
+    "address": "Số 66, Tân Thành, P3, Quận 5, TP. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "34852878237",
+    "address": "Số 1 Châu Văn Liêm, phường Phú Đô, quận Nam Từ Liêm, Thành phố Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "351174412284",
+    "address": "Thanh My Loi Ward, District 2, Ho Chi Minh City, Vietnam",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "353538209270",
+    "address": "Địa phận phường Đại Kim (Hoàng Mai) và một phần tại xã Thanh Liệt (Thanh Trì)",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "354807343153",
+    "address": "Bạch Đằng, Thượng Lý, Hồng Bàng",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "355306320152",
+    "address": "201 Minh Khai, Q. Hai Bà Trưng, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "357530801220",
+    "address": "29 Tố Hữu -Phường Trung Văn - Quận Nam Từ Liêm - Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "359309192188",
+    "address": "Phường Phúc Đồng, Quận Long Biên, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "36590924740",
+    "address": "278-283 Ben Van Don, Ward 2, District 4, Ho Chi Minh City",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "36672884572",
+    "address": "phường Ngọc Thụy - phường Thượng Thanh - phường Đức Giang – Q.Long Biên – Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "368543681482",
+    "address": "VSip Hai Phong, Thuy Nguyen dist",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "374256373491",
+    "address": "Phường Nhân Chính, quận Thanh Xuân và Phường Trung Hòa, quận Cầu Giấy",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "378370498581",
+    "address": "đường Hàm Nghi, khu đô thị Mỹ Đình I",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "379040493088",
+    "address": "537 Nguyen Duy Trinh, Binh Trung Dong ward, District 2, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "381066493652",
+    "address": "Hoa Lac Hi-Tech Park, Thach That District, Hanoi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "381872348578",
+    "address": "210 Trần Quang Khải, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "385441781524",
+    "address": "2 Phạm Văn Đồng, Phường Phước Mỹ, Quận Sơn Trà, TP. Đà Nẵng",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "387110359368",
+    "address": "Mặt tiền đường Đồng Văn Cống, P. Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "38767113056",
+    "address": "Hoa Lac High-tech Park, Ha Noi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "388256622346",
+    "address": "108 Nguyễn Trãi, Khương Đình, Thanh Xuân, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "394842803434",
+    "address": "Hiep Phuoc IP, Nha Be dist, HCMC",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "399360708436",
+    "address": "Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "399530291251",
+    "address": "VSIP Hai Phong IP, Thuy Nguyen district, Hai Phong city",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "400368232787",
+    "address": "Số 9, ngõ 29 Láng Hạ, P. Thành Công, Q.Đống Đa, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "409437733697",
+    "address": "Phong My ward, Phong Dien dist, Thua Thien Hue province",
+    "city": "137",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "416030389406",
+    "address": "Lot Z01-02-03a, Tan Thuan IZ, dist 7, HCMC",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "416146316439",
+    "address": "Lô A, ô D4 Khu ĐTM Cầu Giấy, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "417365633643",
+    "address": "198 Trần Quang Khải, Hoàn Kiếm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "426492914625",
+    "address": "CT01, An Phú, Quận 2, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "42694725972",
+    "address": "16 Phạm Hùng, phường Mỹ Đình 2, quận Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "427290867694",
+    "address": "Nguyễn Đức Cảnh, P.Tân Phong, Quận 7, TPHCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "427960503183",
+    "address": "Quận 12",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "42797151133",
+    "address": "Đường Nguyễn Xí, Quận Bình Thạnh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "428398750356",
+    "address": "Đường 11, Phường Thảo Điền, Quận 2",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "432035469779",
+    "address": "107 Nguyễn Phong Sắc, Cầu Giấy, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "436167556809",
+    "address": "Số 319 – phường Bồ Đề – Long Biên – Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "436436290677",
+    "address": "01 Trần Khánh Dư, Bạch Đằng, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "442275989260",
+    "address": "Cách Trung Tâm Hội Nghị Quốc gia 14Km về phía Tây Bắc",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "443398150914",
+    "address": "Kim Chung commune, Dong Anh District",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "445888497790",
+    "address": "23 Phố Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "44869454242",
+    "address": "340 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, TP. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "45370283031",
+    "address": "Lô LD4, khu Công nghiệp Thạch Thất - Quốc Oai, xã Phùng Xá, huyện Thạch Thất, Hà Nội, Việt Nam.",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "461585532981",
+    "address": "Đường Song hành- Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Tp. HCMC.",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "463001470857",
+    "address": "Lot C44, Vinh Loc IP, Binh Chanh district, HCMC",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "465172818371",
+    "address": "3A- 3B Tôn Đức Thắng, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "465807969408",
+    "address": "165 Xã Đàn, quận Đống Đa, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "466006535769",
+    "address": "Lô đất N01T1 Khu Đoàn Ngoại Giao, P.Xuân Tảo, Q. Bắc Từ Liêm, TP. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "46669942378",
+    "address": "Đường số 7, Phường An Lạc A, Quận Bình Tân, TP. HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "471088732214",
+    "address": "Tân Bình",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "472488208323",
+    "address": "Hanoi Southern Supporting IP(Hanssip), Dai Xuyen Commune, Phu Xuyen District, Hanoi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "474467594620",
+    "address": "Lương Định Của, Phường An Phú, Quận 2, Tp.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "47771885418",
+    "address": "Lot 10A- Quang Minh IP, Me Linh town, Ha Noi city",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "478185500082",
+    "address": "Hoang Quoc Viet street, District 7, Ho Chi Min city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "480150197349",
+    "address": "LD4,Thach That IP – Quoc Oai,Phung Xa, Thach That District",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "481178431586",
+    "address": "phường 28, quận Bình Thạnh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "483477140325",
+    "address": "119K2, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "484677661760",
+    "address": "xã Cổ Loa, Đông Hội, Mai Lâm, Xuân Canh thuộc huyện Đông Anh",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "48771530675",
+    "address": "31 Lê Duẩn, Quận 1, TP Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "490395316955",
+    "address": "129 Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Tp. HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "493928291257",
+    "address": "378 Minh Khai, Hai Bà Trưng, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "497473698924",
+    "address": "Mai Chí Thọ, An Phú, Quận 2, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "497638571756",
+    "address": "Khu nhà ở Đồng Quốc Bình - P.Đồng Quốc Bình - Q.Ngô Quyền - TP.Hải Phòng",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "498322384659",
+    "address": "Số 99 Lê Văn Lương, Thanh Xuân, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "498475869981",
+    "address": "Ngõ 91, đường Đại Mỗ, phường Đại Mỗ, Q. Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "499437363370",
+    "address": "Số 152 Điện Biên Phủ, phường 25 quận Bình Thạnh, TP Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "499747879265",
+    "address": "Số 03 Lương Yên, Quận Hai Bà Trưng, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "506189183952",
+    "address": "Lô đất TT6, khu đô thị Tây Nam Kim Giang I, xã Tân Triều, huyện Thanh Trì, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "507019887205",
+    "address": "F-Ville Building, Hoa Lac Hi-tech Park, Km29, Thanglong Freeway, Thach That District, Hanoi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "508954912934",
+    "address": "Lien Chieu dist, Da Nang city",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "510823847151",
+    "address": "No. 114-116, Road 6, VSIP Hai Phong, Thuy Trieu Commune, Thuy Nguyen District, Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "511495659068",
+    "address": "Số 119 đường K2 (số 30 Trần Hữu Dực), phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "511569155214",
+    "address": "đường Hòa Bình, Phường Hiệp Tân, quận Tân Phú",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "51789099158",
+    "address": "khu chức năng số 2A, thuộc khu đô thị mới Thủ Thiêm, Quận 2, Thành Phố. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "52244222521",
+    "address": "Dinh Vu IP, An Hai district, Hai Phong city",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "523826684009",
+    "address": "102 Đặng Văn Bi, Quận Thủ Đức",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "524729790022",
+    "address": "Xã Vĩnh Ngọc, Huyên Đông Anh, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "52481098758",
+    "address": "Mặt biển Mỹ Khê, đưỡng Võ Nguyên Giáp, Quận Sơn Trà, TP. Đà Nẵng",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "525983359624",
+    "address": "Lot B4, D4 Street, Tan Phu Trung IP, Cu Chi district, HCMC",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "529410972051",
+    "address": "21 Le Duc Tho, Nam Tu Liem district, Hanoi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "534877584182",
+    "address": "Lô đất kí hiệu CC,Khu D9 vườn đào, Phường Xuân La, Quận Tây Hồ, Hà Nội.",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "535073721327",
+    "address": "334 Tô Hiến Thành, P.14, Q.10, Tp.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "540976176975",
+    "address": "Tiếp giáp mặt đường Vành đai 2 – Võ Chí Công, quận Tây Hồ, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "54191349611",
+    "address": "Phường Xuân Tảo, Q. Bắc Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "54977075764",
+    "address": "Hoa Lac IP, Thach Hoa Commune, Thach That District, Ha Noi City",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "551462378961",
+    "address": "01 Đường Phan Văn Đáng, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "555116363292",
+    "address": "Lô N01-T1 Khu đô thị Ngoại Giao Đoàn, Bắc Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "562659694392",
+    "address": "Lô số 22-E3 khu đô thị mới Cầu Giấy, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "563275157183",
+    "address": "Lach Tray river, Vinh Niem ward, Le Chan district, Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "564138166047",
+    "address": "Mặt đường 70, phường Đại Mỗ, quận Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "568028726054",
+    "address": "362 Bùi Xương Trạch, Định Công, Hoàng Mai, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "568302361550",
+    "address": "số 35 Lê Văn Thiêm – 102 Ngụy Như Kon Tum, q.Thanh Xuân, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "572011269904",
+    "address": "26 Liễu Giai, Cống Vị ,Ba Đình, HN",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "57271339266",
+    "address": "Lot CN1-02B-4-8- Hoa Lac IP, Thach That District, Ha Noi City",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "574018519787",
+    "address": "29 đường Tố Hữu, P. Trung Văn, Q. Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "58232724769",
+    "address": "Số 83 Phố Hào Nam, P. Ô Chợ Dừa, Q. Đống Đa, TP. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "592196610467",
+    "address": "116A Nguyễn Hữu Thọ , P. Phước Kiển, Nhà Bè TP. HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "592379556297",
+    "address": "xã Tứ Hiệp, huyện Thanh Trì, Thành phố Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "597004749393",
+    "address": "44 Yên Phụ – Phường Trúc bạch – Quận Ba Đình – TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "603022970480",
+    "address": "Đại lộ Thăng Long, Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "605403452280",
+    "address": "Tọa lạc tại số 678 Âu Cơ, Phường 14, Quận Tân Bình, TP.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "606490907929",
+    "address": "Chan May port, Phu Loc dist, Thua Thien Hue province",
+    "city": "137",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "61037184931",
+    "address": "Khu chức năng số 2a, Khu Đô thị mới Thủ Thiêm (quận 2)",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "611671465150",
+    "address": "232 Phạm Văn Đồng, Bắc Từ Liêm, Hà Nội (Thành phố giao lưu )",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "614007937057",
+    "address": "Mặt tiền Võ Văn Kiệt Phường 16, Quận 8",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "615461149334",
+    "address": "Lô B17, Khu công nghiệp Phú Vinh, phường Kỳ Liên, thị xã Kỳ Anh, tỉnh Hà Tĩnh",
+    "city": "126",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "620011222642",
+    "address": "Số 885 Tam Trinh, Yên Sở, Quận Hoàng Mai, TP. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "621073764284",
+    "address": "378 Minh Khai, Hoàng Mai, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "627212184945",
+    "address": "257 Điện Biên Phủ, phường 7, quận 3, TP Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "628113174902",
+    "address": "Khu Ngoại giao đoàn, Phường Xuân Tảo, Q. Bắc Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "62983648902",
+    "address": "Số 119 đường K2 và số 30 Trần Hữu Dực, P. Phú Diễn, Q. Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "630286335681",
+    "address": "xã Đông Nội, huyện Đông  Anh, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "6314857032",
+    "address": "No 35, Ho Hoc Lam street, An Lac ward, Tan Binh district, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "636444199746",
+    "address": "275 Nguyễn Trãi – Q.Thanh Xuân – TP.Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "641708733111",
+    "address": "Số 32 Đại Từ - Khu Đô Thị Đại Kim - Hoàng Mai - Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "642491698085",
+    "address": "Đường Ngô Chí Quốc, Phường Bình Chiểu, Quận Thủ Đức, TP. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "643372129014",
+    "address": "Khu chức năng 2b, Nằm dọc trục đường Mai Chí Thọ, ven sông Sài Gòn (quận 2)",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "643964164306",
+    "address": "Dinh Vu - Cat Hai EZ, Thuy Nguyen District, Hai Phong City",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "64529185505",
+    "address": "Đường Trần Thủ Độ, Xã Tứ Hiệp, Thanh Trì, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "647076517977",
+    "address": "Số 2, Khuất Duy Tiến, quận Thanh Xuân",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "651345862960",
+    "address": "Lot E6b- Hiep Phuoc IP, Nha Be dist, HCMc",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "652401704850",
+    "address": "Ngõ 234 Hoàng Quốc Việt, Q. Bắc Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "652873623112",
+    "address": "Lô ĐMKT1 , Khu đoàn ngoại giao, P. Xuân Tào, Q. Bắc Tư Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "653348622669",
+    "address": "đường Hồ Sen - Cầu Rào 2, phường Kênh Dương -  Vĩnh Niệm, quận Lê Chân, Hải Phòng",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "6640086104",
+    "address": "51 Yet Kieu, Tho Quang ward, Son Tra dist, Da Nang province",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "664722318470",
+    "address": "Nguyễn Hữu Thọ, Nhà Bè, Tp.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "670949989343",
+    "address": "Lô E, KCN Tràng Duệ,xã Lê Lợi và Hồng Phong, An Dương, Hải Phòng",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "67153011722",
+    "address": "Phuc Tho dist, Ha Noi city",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "672088297224",
+    "address": "Ô đất A10 Khu đô thị Nam Trung Yên, Cầu Giấy, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "67308587027",
+    "address": "Lô đất HH1 – KĐT Mễ Trì Hạ –  Phạm Hùng, Mễ Trì, q. Nam Từ Liêm – Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "673447999018",
+    "address": "97-99 Láng Hạ , nằm Phường Láng Hạ, Đống Đa",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "673549623127",
+    "address": "55 Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "679533540890",
+    "address": "Lô C - Ô D4 Khu đô thị mới Cầu Giấy, phường Dịch vọng, quận Cầu Giấy, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "680354335212",
+    "address": "699 Lạc Long Quân, Tây Hồ, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "680781462100",
+    "address": "Lot A1, the CN5, Trang Due of Dinh Vu - Cat Hai, Le Loi commune, An Duong district, Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "681291576373",
+    "address": "Lê Văn Lương - Thanh Xuân",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "681500597578",
+    "address": "Thu Thiem New Urban Area, Ho Chi Minh City",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "68161265254",
+    "address": "Tien Dong village, Ban Dai ward, H.An Duong, Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "682732131668",
+    "address": "Khu đô thị mới Thủ Thiêm, phường An Lợi Đông, quận 2, thành phố Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "68434260365",
+    "address": "Lô I-10-2 Khu công nghệ cao Phường Tân Phú, Quận 9, Thành Phố Hồ Chí Minh, Việt Nam",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "684593447152",
+    "address": "Phường Linh Trung, Thủ Đức, TPHCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "685682540450",
+    "address": "349 Đội Cấn, Liễu Giai, Ba Đình, HN",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "69138367669",
+    "address": "Đường Lê Duẩn giao Lê Văn Hưu Quận 1",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "694884847267",
+    "address": "Lô đất CT2 - Khu ĐTM Kim Văn Kim Lũ - Đại Kim - Q. Hoàng Mai, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "69638818123",
+    "address": "Tân Cảng, Q. Bình Thạnh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "697556915860",
+    "address": "đường Tăng Nhơn Phú, phường Phước Long B, Quận 9, TP Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "699702828510",
+    "address": "Đường Phạm Hùng, Phường Mỹ Đình 2, Q. Nam Từ Liêm, TP Hà Nội.",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "700964710879",
+    "address": "1 Tôn Thất Thuyết, Phường 1, Quận 4, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "7022486823",
+    "address": "Lot HH, Pham Hung Road, Me Tri Ward, Nam Tu Liem District, Ha Noi",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "703856301751",
+    "address": "360 Giải Phóng, Hoàng Mai, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "704314139885",
+    "address": "Thang Long IP, Dong Anh District, Hanoi, Vietnam",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "70505430233",
+    "address": "ô J, K trong dự án Jamona City, đường Đào Trí, phường Phú Thuận, Quận 7, TP.HCM.",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "711087687000",
+    "address": "148 Giảng Võ, quận Ba Đình",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "714766759822",
+    "address": "B6, phố Nam Cao, phường Giảng Võ, quận Ba Đình, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "724752890533",
+    "address": "Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "72751711084",
+    "address": "Lô 2, A2 Võ Văn Kiệt, phường An Hải Đông, Q. Sơn Trà, Đà Nẵng",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "727816123356",
+    "address": "04 Đào Trí, Phường Phú Thuận, Quận 7, TP. HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "734541814626",
+    "address": "21 Lê Văn Lương, quận Thanh Xuân, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "740365661828",
+    "address": "23 Phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà nội.",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "74135215606",
+    "address": "345 Đội Cấn, Liễu Giai, Ba Đình, HN",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "741823701910",
+    "address": "298 Ngọc Lâm, Long Biên, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "74573514636",
+    "address": "130-132 Hồng Hà, phường 9, quận Phú Nhuận, TP Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "748978380369",
+    "address": "Lô đất HH01, khu đô thị mới Dương Nội, Hà Đông",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "752541905056",
+    "address": "Lô đất E4 dự án khu đô thị mới Yên Hòa – Quận Cầu Giấy – Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "754216166448",
+    "address": "Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "756175856029",
+    "address": "đường 70 phường Đại Mỗ, quận Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "757855229942",
+    "address": "Tọa lạc tại  đường số 1, Phường Trường Thọ, Quận Thủ Đức, Tp.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "759604339335",
+    "address": "Thạnh Mỹ, Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "76325383224",
+    "address": "đường Nguyễn Tất Thành, Phường Thuận Phước, Hải Châu",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "767093541376",
+    "address": "Lô đất A1TT1, khu trung tâm khu đô thị Tây Hồ Tây, phường Xuân Tảo, q.Bắc Từ Liêm, HN",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "768790372494",
+    "address": "Dinh Vu IZ, Dong Hai 2 Ward, Hai An District, Dinh Vu - Cat Hai EPZ, Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "773252521504",
+    "address": "643 Phạm Văn Đồng, Q.Bắc Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "774197503601",
+    "address": "Đông Trù - quận Long Biên - TP. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "774873442020",
+    "address": "Ngõ 91 đường Đại Mỗ, phường Đại Mỗ, quận Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "781365339087",
+    "address": "District 2, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "785842636024",
+    "address": "Phường Thạch Bàn - Quận Long Biên - Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "786576533738",
+    "address": "Lô HH - Đường Phạm Hùng - Phường Mễ Trì - Quận Nam Từ Liêm Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "789485584238",
+    "address": "B6, Phố Nam Cao, Phường Giảng Võ, Ba Đình, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "790456418167",
+    "address": "Residential Sokico Hung Long, Ward 14, Go Vap district, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "792179451842",
+    "address": "Đường Mai Chí Thọ, Phường An Phú, Quận 2,",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "797171186310",
+    "address": "Số 510 Kinh Dương Vương, P.An Lạc A, Q.Bình Tân, Tp.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "798108264494",
+    "address": "Ngõ 48, Ngọc Hồi, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "801452893795",
+    "address": "Mặt tiền đường An Dương Vương, phường 16, quận 8, TP Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "80182197013",
+    "address": "Số 28 lô X3 Trần Hữu Dục, P. Cầu Diễn, Q. Nam Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "806386725690",
+    "address": "346 Ben Van Don, Ward 1, District 4, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "807384789305",
+    "address": "02 Phan Đình Giót, Quận Tân Bình, TP.Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "808771583740",
+    "address": "Street 10, Hiep Binh Chanh ward, Thu Duc district, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "815008685887",
+    "address": "Thửa đất số 86, phường Thạnh Mỹ Lợi, Quận 2, Tp. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "8188145233",
+    "address": "Lô đất C5, Phường Xuân Đỉnh, Q. Bắc Từ Liêm, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "819080334359",
+    "address": "67A Trương Định, Hai Bà Trưng, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "82284686548",
+    "address": "No. 89 Phung Hung, Phuc La ward, Ha Dong district, Ha Noi city",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "828432266454",
+    "address": "số 90 Nguyễn Tuân, phường Thanh Xuân Trung, quận Thanh Xuân, thành phố Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "828953858707",
+    "address": "Số 25 Nguyễn Huy Tưởng (Số 2 Lê Văn Thiêm) – Phường Thanh Xuân Trung – Quận Thanh Xuân – Thành Phố Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "829635949788",
+    "address": "số 76 Tôn Thất Thuyết, Phường 16, Quận 4, TP.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "830431273280",
+    "address": "463 Hoàng Hoa Thám, Ba Đình, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "830596467658",
+    "address": "Lot U1, 7B Street, Hoa Khanh Industrial Park expansion, Lien Chieu District, Da Nang City",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "833573110",
+    "address": "Lô số 1, ô đất 4.1 CC đường Lê Văn Lương, phường Nhân Chính, Thanh Xuân, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "83492788741",
+    "address": "69 Vũ Trọng Phụng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "834990928027",
+    "address": "Lô đất HH1, KĐT Mễ Trì Hạ, Phạm Hùng, Mễ Trì, Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "835836341714",
+    "address": "Võ Trường Toản, Phường Thảo Điền, Quận 2",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "83625860618",
+    "address": "số 210 Trần Quang Khải, số 17 phố Tông Đản, phường Tràng Tiền, quận Hoàn Kiếm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "843580584189",
+    "address": "Lô 37, Khu C Gleximco – Lê Trọng Tấn – Hà Đông – Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "8476268466",
+    "address": "1472 Võ Văn Kiệt và 445 - 449 Gia Phú, quận 6, Tp.HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "847950773929",
+    "address": "Ô 17 – HH1, Khu đô thị Tây Hồ Tây, Quận Tây Hồ",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "850598479364",
+    "address": "Lô đất 4.5-NO đường Lê Văn Lương, Phường Nhân Chính, Thanh Xuân, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "852388239813",
+    "address": "Số 423 Minh Khai, Hai Bà Trưng, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "85304358283",
+    "address": "Số 2, Đường Nguyễn Hoàng,P. Mỹ Đình 2, Q. Nam Từ Liêm,TP. Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "8531244589",
+    "address": "Lô đất C5, Phường Xuân Đỉnh, Q. Bắc Từ Liêm, TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "85433685260",
+    "address": null,
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "858367163455",
+    "address": "Số 1, Phạm Ngũ Lão, P. Nguyễn Thái Bình, Q. 1",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "859637913081",
+    "address": "97-99 Láng Hạ, Đống Đa, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "86530156904",
+    "address": "Lot A1, Urban Him Lam, Tan Hung ward, District 7, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "866518424335",
+    "address": "126 Ông Ích Khiêm, Phường Tam Thuận, Quận Thanh Khê",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "868580538376",
+    "address": "Đường Hàm Nghi, Phường Mỹ Đình 2, Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "86964696202",
+    "address": "Khu phố 3, Xa Lộ Hà Nội, P. An Phú, Quận 2",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "87162742885",
+    "address": "226 Le Lai Street, Chai Ward, Ngo Quyen District, Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "877531446147",
+    "address": "Hoa Khanh IP, 7 street, Lien Chieu district, Da Nang city",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "880322284874",
+    "address": "Số 2 Phạm Văn Bạch, ô đất D32 KĐTM Cầu Giấy, Yên Hòa, Cầu Giấy",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "882005634333",
+    "address": "Trương Văn Bang, Phường Thạnh Mỹ Lợi - Bình Trưng Tây, Quận 2, TP. HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "882690182894",
+    "address": "33 Lương Minh Nguyệt, P. Tân Thới Hòa, Quận Tân Phú, TP HCM",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "891374171740",
+    "address": "370 Nguyễn Văn Quỳ, Phường Phú Thuận, Quận 7",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "891490687444",
+    "address": "Xuan Dinh ward, Bac Tu Liem district, Ha Noi city",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "89500234423",
+    "address": "Phường Đại Kim – Quận Hoàng Mai – Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "8989482657",
+    "address": "Khu chức năng số 1, Khu đô thị Thủ Thiêm (quận 2)",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "899544154277",
+    "address": "12 Trần Phú, phường Lương Khánh Thiện, quận Ngô Quyền, Hải Phòng",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "899807732589",
+    "address": "104 Pho Quang Street, Ward 2, Tan Binh district, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "900864430006",
+    "address": "Lot A14- Da Nang hightech IP, Da Nang city",
+    "city": "67",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "903589516868",
+    "address": "Lô ĐMKT1, khu Đoàn ngoại giao, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "911076556633",
+    "address": "Đường Hàm Nghi, Quận Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "912030282855",
+    "address": "Số 4, đường Quang Trung, p. Yết Kiêu, Hà Đông, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "913961146464",
+    "address": "VSIP Hai Phong industrial park, Thuy Nguyen district, Dinh Vu economic zone - Cat Hai, Hai Phong",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "919743514861",
+    "address": "Đường Trần Kim Xuyến,Lô đất E2, Khu đô thị mới Yên Hòa – Cầu Giấy – Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "92029368433",
+    "address": "phường Đại Mỗ, quận Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "920448967472",
+    "address": "Le Minh Xuan IP, Binh Chanh district, HCMC",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "930131447550",
+    "address": "Đường Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, TP. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "930910344881",
+    "address": "Số 90 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, TP. Hồ Chí Minh.",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "933943677135",
+    "address": "Lô E1.3 KĐT mới Cầu Giấy, phường Mỹ Đình 1, quận Nam Từ Liêm, Tp Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "942222226876",
+    "address": "Lô NO1, ngõ 390 đường Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "946259127966",
+    "address": null,
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "953779248816",
+    "address": "đường Phan Chu Trinh, P. Hiệp Phú, Quận 9, Tp Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "956362265730",
+    "address": null,
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "960468143470",
+    "address": "SHTP Ho Chi Minh, district 9, Ho Chi Minh city",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "962396695876",
+    "address": "số 69B Thụy Khuê, Phường Thụy Khuê, Tây Hồ",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "96313020678",
+    "address": "216 Trần Duy Hưng, Trung Hoà, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "968330326839",
+    "address": "Ô đất CT – 03A – CT. Thuộc lô đất CT – 03 Khu đô thị Nam Thăng Long",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "968824486060",
+    "address": "Giao cắt Lê Văn Lương kéo dài và Lê Trọng Tấn, Dương Nội, quận Hà Đông, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "9744210580",
+    "address": "VSip Hai Phong IP, Hai Phong city",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "976847280069",
+    "address": "Phường Bồ Đề, Quận Long Biên, Thành phố Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "980207652818",
+    "address": "Lô đất 4.5, Đường Lê Văn Lương, quận Thanh Xuân",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "980460153692",
+    "address": "Lô đất A1-05, phố Gia Quất, p.Thượng Thanh, Q.Long Biên, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "98405643059",
+    "address": "Ô đất CT5 – KĐT mới Tây Nam Kim Giang I - xã Tân Triều - huyện Thanh Trì - TP Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "987156984500",
+    "address": "Tố Hữu, P. Đại Mỗ, Q. Nam Từ Liêm",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "987964548082",
+    "address": "Đường Nguyễn Thị Định, Cát Lái, Quận 2, Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "990548487615",
+    "address": "Phường Thượng Thanh, Quận Long Biên, Hà Nội",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "99087520707",
+    "address": "Intersection Cao Lo and Ta Quang Buu, Ward 4, District 8, Ho Chi Minh City",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "993496915239",
+    "address": "3A-3B Tôn Đức Thắng, P. Bến Nghé, Q.1, Tp. Hồ Chí Minh",
+    "city": "63",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "995557627208",
+    "address": "số 1 đường Chi Lăng, Thượng Lý, Hải Phòng",
+    "city": "69",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "997750603259",
+    "address": "O Mon IP, O Mon dist, Can Tho city",
+    "city": "147",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  },
+  {
+    "id": "997973294994",
+    "address": "Khương Trung",
+    "city": "73",
+    "district": null,
+    "conversion_status": "invalid_input",
+    "error_message": "City là mã số, không xử lý được",
+    "new_city": null,
+    "new_address": null
+  }
+]

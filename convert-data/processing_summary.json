@@ -1,0 +1,50 @@
+[
+  {
+    "metric": "Total Records",
+    "value": 11147,
+    "percentage": "100%",
+    "description": "Tổng số dự án được xử lý"
+  },
+  {
+    "metric": "Successful Conversions",
+    "value": 0,
+    "percentage": "0%",
+    "description": "Dự án chuyển đổi thành công"
+  },
+  {
+    "metric": "Missing Info Cases",
+    "value": 10,
+    "percentage": "0%",
+    "description": "Dự án thiếu thông tin để chuyển đổi"
+  },
+  {
+    "metric": "Invalid Input Cases",
+    "value": 0,
+    "percentage": "0%",
+    "description": "Dự án có dữ liệu đầu vào không hợp lệ"
+  },
+  {
+    "metric": "Exact Ward Mapping",
+    "value": 0,
+    "percentage": "0%",
+    "description": "Sử dụng mapping chính xác từ cơ sở dữ liệu"
+  },
+  {
+    "metric": "Fuzzy Match Method",
+    "value": 0,
+    "percentage": "0%",
+    "description": "Sử dụng thuật toán so khớp gần đúng"
+  },
+  {
+    "metric": "High Confidence (1.0)",
+    "value": 0,
+    "percentage": "0%",
+    "description": "Chuyển đổi với độ tin cậy cao"
+  },
+  {
+    "metric": "Medium Confidence (0.7-0.99)",
+    "value": 0,
+    "percentage": "0%",
+    "description": "Chuyển đổi với độ tin cậy trung bình"
+  }
+]
